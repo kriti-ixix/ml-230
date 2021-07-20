@@ -29,3 +29,6 @@ print(myString2.split())
 tweet = "Good morning #niceweather #feelinggood #sunny"
 print(tweet.split("#"))
 print(tweet.split("#", 1))
+
+for x in myString:
+    print(x)
