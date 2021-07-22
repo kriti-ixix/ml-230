@@ -2,7 +2,7 @@
 { key : value, key1 : value1 }
 '''
 
-student = {'name':'ABC', 'roll no':25, 'gender':'M', 'pass':True}
+student = {'name':'ABC', 'roll no': 25, 'gender':'M', 'pass':True}
 
 print(student['name'])
 print(student['roll no'])
